@@ -4,4 +4,4 @@ This file contains the link for my blog which has detailed documentation for [Po
 
 ## Solutions
 
-- Blog: [https://literallyethical.github.io/]
+- Blog: [https://literallyethical.github.io/web-security]
