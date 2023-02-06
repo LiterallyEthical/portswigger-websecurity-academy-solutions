@@ -4,4 +4,4 @@ This repo contains the link for my blog which has detailed documentations for [P
 
 ## Solutions
 
-- Blog: [https://literallyethical.github.io/web-security]
+- Blog: [https://literallyethical.github.io/]
